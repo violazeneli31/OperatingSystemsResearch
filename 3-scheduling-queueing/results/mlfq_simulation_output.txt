@@ -1,0 +1,8 @@
+MLFQ Simulation Results
+----------------------
+throughput: 0.0018
+avg_turnaround_time: 14130.6400
+avg_waiting_time: 13574.2000
+avg_response_time: 745.3800
+completed_processes: 50
+total_time: 27840

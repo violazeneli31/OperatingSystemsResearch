@@ -1,0 +1,2 @@
+This is the email body.
+It should remain after removing headers.

@@ -1,0 +1,7 @@
+From: test@example.com
+To: user@example.com
+Subject: Test Email
+
+This is the email body.
+It should remain after removing headers.
+

@@ -1,0 +1,21 @@
+Script,Version,User Time (s),System Time (s),Elapsed Time (s),CPU %,Memory (KB),Voluntary Context Switches,Involuntary Context Switches,Minor Page Faults
+blank-rename,Original,0.01,0.01,0.02,78,3732,17,8,1117
+blank-rename,Optimized,0,0,0,100,3624,1,0,155
+collatz,Original,0,0,0.01,80,3756,1,5,155
+collatz,Optimized,0,0,0,83,3616,1,0,155
+days-between,Original,0.01,0,0.02,75,3780,12,9,734
+days-between,Optimized,0,0,0,87,3584,5,3,375
+mailformat,Original,0.01,0,0.01,125,3736,6,3,472
+mailformat,Optimized,0,0,0.01,71,3620,5,4,475
+makedict,Original,0.02,0,0.01,147,3620,20,12,1384
+makedict,Optimized,0.01,0,0.02,88,3608,13,17,940
+primes,Original,0.24,0.02,0.27,97,36492,1,27,8403
+primes,Optimized,0,0,0.01,72,3668,1,1,175
+random-password,Original,0,0,0,100,3616,1,1,151
+random-password,Optimized,0,0,0,50,3592,1,1,152
+rn,Original,0,0,0.01,30,3544,0,4,152
+rn,Optimized,0,0,0,20,3584,1,0,153
+strip-header,Original,0,0,0,50,2496,4,9,178
+strip-header,Optimized,0,0,0,100,3704,3,4,319
+tree,Original,0.3,0.12,0.44,96,3736,690,177,47630
+tree,Optimized,0,0,0,85,3612,3,0,275

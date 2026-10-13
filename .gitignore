@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+__MACOSX/
+
+# Editor swap files
+*.swp
+
+# Word lock files
+~$*
+
+# Build output and compiled files (rebuilt by run_all.sh)
+build/
+*.class
+__pycache__/
+
+# Results produced by run_all.sh (the published results are in results/)
+new_results/
+
+# CSVs written when running a Paper 3 script directly from code/
+3-scheduling-queueing/code/*.csv

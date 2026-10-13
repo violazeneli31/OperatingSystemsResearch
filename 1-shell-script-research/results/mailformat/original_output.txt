@@ -1,0 +1,4 @@
+Hello this is my first test email.
+This line has extra spaces.
+This is a very long line that should be folded by the script because 
+it contains more than seventy characters and needs formatting.

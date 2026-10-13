@@ -1,0 +1,19 @@
+event syntax error: 'cpu_atom/TOPDOWN_RETIRING.ALL,metric-id=cpu_atom!3TOPDOW..'
+                     \___ Bad event or PMU
+
+Unable to find PMU or event on a PMU of 'cpu_atom'
+
+ Performance counter stats for 'scripts/mailformat/original/mailformat.sh scripts/mailformat/original/test_email.txt':
+
+        12,820,177      task-clock                       #    0.208 CPUs utilized             
+                 9      context-switches                 #  702.018 /sec                      
+                 2      cpu-migrations                   #  156.004 /sec                      
+               456      page-faults                      #   35.569 K/sec                     
+   <not supported>      cycles                                                                
+
+       0.061582379 seconds time elapsed
+
+       0.006119000 seconds user
+       0.010088000 seconds sys
+
+

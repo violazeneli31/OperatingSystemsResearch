@@ -1,0 +1,7 @@
+Starting randomness study...
+Trials per distribution: 100
+uniform: Waiting=12304.04, Response=726.37, Throughput=0.0020
+exponential: Waiting=12206.40, Response=732.97, Throughput=0.0020
+poisson: Waiting=12256.39, Response=782.14, Throughput=0.0020
+
+Results saved to distribution_results.csv

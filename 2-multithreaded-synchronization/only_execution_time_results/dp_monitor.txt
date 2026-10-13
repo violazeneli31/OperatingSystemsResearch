@@ -1,0 +1,21 @@
+Philosophers=5 Rounds=1000
+ExecutionTime=0.001611682
+-------------------------
+Philosophers=10 Rounds=1000
+ExecutionTime=0.002654762
+-------------------------
+Philosophers=20 Rounds=1000
+ExecutionTime=0.005600645
+-------------------------
+Philosophers=5 Rounds=1000
+ExecutionTime=0.001362504
+-------------------------
+Philosophers=10 Rounds=1000
+ExecutionTime=0.003343819
+-------------------------
+Philosophers=20 Rounds=1000
+ExecutionTime=0.005377418
+-------------------------
+Philosophers=50 Rounds=1000
+ExecutionTime=0.013106348
+-------------------------

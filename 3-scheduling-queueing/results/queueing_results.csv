@@ -1,0 +1,7 @@
+Model,Lambda,Mu,Servers,Utilization,Queue_Length_Lq,Waiting_Time_Wq,Stable
+M/M/1,5,10,1,0.5,0.5,0.1,Yes
+M/M/1,8,10,1,0.8,3.2000000000000015,0.4,Yes
+M/M/1,12,10,1,1.2,,,No
+M/M/S,12,10,2,0.6,0.8999999999999999,0.075,Yes
+M/M/S,20,10,4,0.5,0.5,0.025,Yes
+M/M/S,30,10,4,0.75,2.25,0.075,Yes

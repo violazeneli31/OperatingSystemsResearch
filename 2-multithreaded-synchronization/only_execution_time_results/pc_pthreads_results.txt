@@ -1,0 +1,60 @@
+Buffer=10 Items=100000
+Produced=100000 Consumed=100000
+ExecutionTime=0.624199 seconds
+-------------------------
+Buffer=10 Items=100000
+Produced=100000 Consumed=100000
+ExecutionTime=1.197913 seconds
+-------------------------
+Buffer=10 Items=100000
+Produced=100000 Consumed=100000
+ExecutionTime=0.920064 seconds
+-------------------------
+Buffer=10 Items=100000
+Produced=100000 Consumed=100000
+ExecutionTime=0.051236 seconds
+-------------------------
+Buffer=10 Items=100000
+Produced=100000 Consumed=100000
+ExecutionTime=0.051459 seconds
+-------------------------
+Buffer=10 Items=100000
+Produced=100000 Consumed=100000
+ExecutionTime=0.055515 seconds
+-------------------------
+Buffer=50 Items=100000
+Produced=100000 Consumed=100000
+ExecutionTime=0.112021 seconds
+-------------------------
+Buffer=50 Items=100000
+Produced=100000 Consumed=100000
+ExecutionTime=0.069774 seconds
+-------------------------
+Buffer=50 Items=100000
+Produced=100000 Consumed=100000
+ExecutionTime=0.037834 seconds
+-------------------------
+Buffer=100 Items=100000
+Produced=100000 Consumed=100000
+ExecutionTime=0.036250 seconds
+-------------------------
+Buffer=100 Items=100000
+Produced=100000 Consumed=100000
+ExecutionTime=0.033205 seconds
+-------------------------
+Buffer=100 Items=100000
+Produced=100000 Consumed=100000
+ExecutionTime=0.100216 seconds
+-------------------------
+Buffer=500 Items=100000
+Produced=100000 Consumed=100000
+ExecutionTime=0.031178 seconds
+-------------------------
+Buffer=500 Items=100000
+Produced=100000 Consumed=100000
+ExecutionTime=0.033306 seconds
+-------------------------
+Buffer=500 Items=100000
+Produced=100000 Consumed=100000
+ExecutionTime=0.032138 seconds
+-------------------------

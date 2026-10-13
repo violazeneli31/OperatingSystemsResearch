@@ -1,0 +1,11 @@
+Script,Elapsed Time Original (s),Elapsed Time Optimized (s),Time Improvement %,Memory Original (KB),Memory Optimized (KB),Memory Improvement %,CPU Original %,CPU Optimized %,Context Switches Original,Context Switches Optimized
+blank-rename,0.02,0,100,3732,3624,2.9,78,100,25,1
+collatz,0.01,0,100,3756,3616,3.7,80,83,6,1
+days-between,0.02,0,100,3780,3584,5.2,75,87,21,8
+mailformat,0.01,0.01,0,3736,3620,3.1,125,71,42.4,9
+makedict,0.02,0.01,100,3620,3608,0.3,147,88,40.1,30
+primes,0.27,0.01,96.3,36492,3668,89.9,97,72,25.8,28
+random-password,0,0,0,3616,3592,0.7,100,50,50,2
+rn,0.01,0,100,3544,3584,1.1,30,20,33.3,4
+strip-header,0,0,0,2496,3704,48.4,50,100,13,7
+tree,0.44,0,100,3736,3612,3.3,96,85,11.5,870

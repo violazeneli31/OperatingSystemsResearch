@@ -1,0 +1,10 @@
+Queueing Theory Results
+-----------------------
+{'Model': 'M/M/1', 'Lambda': 5, 'Mu': 10, 'Servers': 1, 'Utilization': 0.5, 'Queue_Length_Lq': 0.5, 'Waiting_Time_Wq': 0.1, 'Stable': 'Yes'}
+{'Model': 'M/M/1', 'Lambda': 8, 'Mu': 10, 'Servers': 1, 'Utilization': 0.8, 'Queue_Length_Lq': 3.2000000000000015, 'Waiting_Time_Wq': 0.4, 'Stable': 'Yes'}
+{'Model': 'M/M/1', 'Lambda': 12, 'Mu': 10, 'Servers': 1, 'Utilization': 1.2, 'Queue_Length_Lq': None, 'Waiting_Time_Wq': None, 'Stable': 'No'}
+{'Model': 'M/M/S', 'Lambda': 12, 'Mu': 10, 'Servers': 2, 'Utilization': 0.6, 'Queue_Length_Lq': 0.8999999999999999, 'Waiting_Time_Wq': 0.075, 'Stable': 'Yes'}
+{'Model': 'M/M/S', 'Lambda': 20, 'Mu': 10, 'Servers': 4, 'Utilization': 0.5, 'Queue_Length_Lq': 0.5, 'Waiting_Time_Wq': 0.025, 'Stable': 'Yes'}
+{'Model': 'M/M/S', 'Lambda': 30, 'Mu': 10, 'Servers': 4, 'Utilization': 0.75, 'Queue_Length_Lq': 2.25, 'Waiting_Time_Wq': 0.075, 'Stable': 'Yes'}
+
+Results saved to queueing_results.csv

@@ -1,0 +1,66 @@
+Initial directory = /home/sidritrrustemi/Shell-Script-Research
++---report
++---results
+| +---blank-rename
+| +---collatz
+| +---days-between
+| +---mailformat
+| +---makedict
+| +---primes
+| +---random-password
+| +---rn
+| +---strip-header
+| +---tree
++---screenshots
+| +---blank-rename
+| +---collatz
+| +---days-between
+| +---mailformat
+| +---makedict
+| +---primes
+| +---random-password
+| +---rn
+| +---strip-header
+| +---tree
++---scripts
+| +---blank-rename
+| | +---analyzed
+| | +---optimized
+| | +---original
+| +---collatz
+| | +---analyzed
+| | +---optimized
+| | +---original
+| +---days-between
+| | +---analyzed
+| | +---optimized
+| | +---original
+| +---mailformat
+| | +---analyzed
+| | +---optimized
+| | +---original
+| +---makedict
+| | +---analyzed
+| | +---optimized
+| | +---original
+| +---primes
+| | +---analyzed
+| | +---optimized
+| | +---original
+| +---random-password
+| | +---analyzed
+| | +---optimized
+| | +---original
+| +---rn
+| | +---analyzed
+| | +---optimized
+| | +---original
+| +---strip-header
+| | +---analyzed
+| | +---optimized
+| | +---original
+| +---tree
+| | +---analyzed
+| | +---optimized
+| | +---original
+Total directories = 64
